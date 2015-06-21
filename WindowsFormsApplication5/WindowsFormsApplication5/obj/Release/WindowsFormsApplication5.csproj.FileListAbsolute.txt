@@ -1,0 +1,8 @@
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Form1.resources
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.exe
+c:\users\zxypher\documents\visual studio 2013\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Release\WindowsFormsApplication5.pdb
